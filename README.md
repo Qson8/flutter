@@ -16,7 +16,7 @@
   * [flutter 版本](#flutter-版本)
   * [两端交流](#两端交流)
   * [必备技能](#必备技能)
-    * [BloC 【Business Logic Component】的相关文章](#BloC--Business-Logic-Component】的相关文章)
+    * [BloC 【Business Logic Component】的相关文章](#BloC-【Business-Logic-Component】的相关文章)
     * [RxDart](#RxDart)
     * [PublishSubject](#PublishSubject)
     * [BehaviorSubject](#BehaviorSubject)
