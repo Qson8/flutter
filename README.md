@@ -1,28 +1,5 @@
 # flutter
 
-* [flutter思维导图](#flutter思维导图)
-* [代码规范](#代码规范)
-  * [命名](#命名)
-  * [顺序](#顺序)
-  * [函数规范](#函数规范)
-* [VS code 快捷键](#VS-code-快捷键)
-* [项目的结构](#项目的结构)
-  * [目录](#目录)
-    * [kit 文件目录该放什么？](#kit-文件目录该放什么)
-
-* [ 混合开发配置](#混合开发配置)
-  * [ios](#ios)
-  * [android](#android)
-  * [flutter 版本](#flutter-版本)
-  * [两端交流](#两端交流)
-  * [必备技能](#必备技能)
-    * [BloC 【Business Logic Component】的相关文章](#BloC-【Business-Logic-Component】的相关文章)
-    * [RxDart](#RxDart)
-    * [PublishSubject](#PublishSubject)
-    * [BehaviorSubject](#BehaviorSubject)
-    * [ReplaySubject](#ReplaySubject)
-    
-
 
 ## flutter思维导图
 ![](flutter_widgets.png)
