@@ -1,7 +1,5 @@
-# flutter
 
 ## 目录
- * [flutter](#flutter)
   * [flutter思维导图](#flutter思维导图)
   * [代码规范](#代码规范)
      * [命名](#命名)
@@ -23,6 +21,8 @@
         * [BehaviorSubject](#behaviorsubject)
         * [ReplaySubject](#replaysubject)
            
+
+
 
 ## flutter思维导图
 ![](flutter_widgets.png)
