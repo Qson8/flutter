@@ -20,7 +20,7 @@
         * [PublishSubject](#publishsubject)
         * [BehaviorSubject](#behaviorsubject)
         * [ReplaySubject](#replaysubject)
-           
+  * [相关技术贴](#相关技术贴)   
 
 
 
@@ -347,5 +347,10 @@ ReplaySubject也是一个广播StreamController，它返回一个Observable而�
 >* StreamSubscription - 当您不再需要收听Stream时，取消订阅;
 >* StreamController - 当你不再需要StreamController时，关闭它;
 >* 这同样适用于RxDart Subjects，当你不再需要BehaviourSubject，PublishSubject...时，请将其关闭。
+
+
+## 相关技术贴
+
+   * [Flutter萌新高频问题](https://juejin.im/post/5c199786e51d451be419ce35#heading-12)
 
 
